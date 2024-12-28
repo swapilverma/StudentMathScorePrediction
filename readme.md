@@ -37,7 +37,7 @@ This repository contains an end-to-end machine learning project designed to pred
 
 
 ## Results
-- The final model (Ridge Regression) achieves high accuracy with a Mean Squared Error of `5.3960` and an R² score of `0.88`.
+- The final model (Ridge Regression) achieves high accuracy with a R² score of `0.88`.
 - The prediction pipeline provides reliable and scalable predictions for new input data.
 
 ## Future Enhancements
