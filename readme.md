@@ -1,5 +1,4 @@
 # Student Math Score Prediction
-## END to END Machine Learning Projects
 
 This repository contains an end-to-end machine learning project designed to predict students' math scores based on input data. The project encompasses data analysis, model development, evaluation, and deployment using a structured and scalable approach with best pratices.
 
